@@ -1,4 +1,4 @@
-# Neon Copter
+#Copter
 
 A modern take on the classic 2000s Helicopter / Copter Flash game.
 
@@ -32,6 +32,12 @@ Hold to fly up, release to fall. Navigate through the cave and dodge obstacles f
 | Release            | Fall down  |
 | Space / Arrow Up   | Fly up     |
 
+## Play
+
+Open the game here:  
+**[Play Copter](https://ahasanali9987.github.io/CopterGK/)**
+
+---
 ---
 
 Made with ❤️
